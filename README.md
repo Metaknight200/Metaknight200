@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I currently own a ogfn project with 1k members<br> Goals: To have one of the best and popular ogfn project<br> Fun fact: Young & Fit</p>
+<p align="left">I currently own a ogfn project with 1k+ members<br> Goals: To have one of the best and popular ogfn project<br> Fun fact: Young & Fit</p>
 
 ###
 
