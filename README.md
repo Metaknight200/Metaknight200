@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Metaknight, and I’m one of the founders of Project Blackout,I’m from Sweden.</p>
+<p align="left">My name is Metaknight, and I’m one of the founders of Project Blackout, I’m from Sweden.</p>
 
 ###
 
