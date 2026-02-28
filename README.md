@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Metaknight and I'm a coder/developer, from from Sweden.</p>
+<p align="left">My name is Meta, and I’m one of the founders of Blackout,I’m from Sweden.</p>
 
 ###
 
